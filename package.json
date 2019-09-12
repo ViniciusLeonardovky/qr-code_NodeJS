@@ -1,0 +1,11 @@
+{
+  "name": "ac03",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "qrcode": "^1.4.1"
+  }
+}
